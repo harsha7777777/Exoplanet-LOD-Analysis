@@ -34,5 +34,5 @@ This repository contains the final project for our Big Data Linked Open Data (LO
 4.Check out the presentation.pdf and final_report.pdf for detailed explanations and results.
 
 ## Authors:
+### Harsha vardhan reddy
 ### Hrishikesh Alikatte
-### Harsha vardhan
